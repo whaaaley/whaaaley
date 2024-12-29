@@ -4,11 +4,11 @@ Building minimal, user-focused web applications for over 10 years.
 
 Projects I Love 🛠️
 - 📱 Vue + TSX
-- 💪 TypeScript
-- 🔄 TanStack Query
-- 🛡️ Zod
-- 🔥 Supabase
+- 💪 TypeScript + Zod
+- 📡 TanStack/Query
+- ⚡ Supabase
 - 🦕 Deno + Oak
+- 🌊 RxJS
 
 What I Love 💭
 - 🎯 Functional patterns
