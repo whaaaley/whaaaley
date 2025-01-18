@@ -4,7 +4,7 @@ Building minimal, user-focused web applications for over 10 years.
 
 Projects I Love 🛠️
 - 📱 Vue + TSX
-- 💪 TypeScript + Zod
+- 💪 TypeScript + tRPC/Zod
 - 📡 TanStack/Query
 - ⚡ Supabase
 - 🦕 Deno + Oak
