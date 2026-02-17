@@ -1,6 +1,6 @@
-# ~/dustin on git main [$] is pkg v1.0.0 via deno v2.0.2
+# ~/dustin on git main [$] is pkg v1.0.0 via deno v2.6.3
 
-Building minimal, user-focused web applications for over 10 years.
+Building minimal, user-focused web applications for over 12 years.
 
 Projects I Love 🛠️
 - 📱 Vue + TSX
