@@ -14,6 +14,6 @@ What I Love 💭
 - 🎨 Minimal UI
 - ✨ Designing amazing UX
 
-## Contributions
+## Public contributions
 
-![Contributions](https://contributions-card.dustindowell-com.workers.dev/contributions.svg)
+![Public contributions](https://contributions-card.dustindowell-com.workers.dev/contributions.svg?v=2)
